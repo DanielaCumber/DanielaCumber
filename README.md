@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielaCumber
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 cumber.dl@gmail.com
 
 <!---
